@@ -9,4 +9,6 @@ Topics of interest range from:
   - Data engineering (Airflow, Pipelines, Stream Processing, ETL, ELT, Data Lakes & Warehouses)
   - Distributed systems
   - Cloud Computing (AWS)
+
+Go, Rust and Python
 ```
