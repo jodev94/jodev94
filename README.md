@@ -3,7 +3,7 @@ Welcome to my GitHub!
 
 Academic / Professional Background:
   - B.Sc. Chemistry - University of Michigan - Ann Arbor
-  - Postbaccularete Computer Science - Oregon State University
+  - Postbaccalaureate Computer Science - Oregon State University
 ---
   - Former Clinical Data Manager @ Michigan Medicine (Genomics)
   - Fromer SWE @ Bosch North America (DevOps)
