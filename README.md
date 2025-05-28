@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+Welcome to my GitHub!
 
-<!--
-**jodev94/jodev94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Academic / Professional Background:
+  - B.Sc. Chemistry - University of Michigan - Ann Arbor
+  - Postbaccularete Computer Science - Oregon State University
+---
+  - Former Clinical Data Manager @ Michigan Medicine (Genomics)
+  - Fromer SWE @ Bosch North America (DevOps)
+  - Former SWE @ Ford Motor Company (Cloud Architecture)
+  - Current SWE @ Magna International (Data Platforms)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested In:
+  Data Engineering, Data & Software Systems, Programming Languages, Bioinformatics & Genomics
+```
